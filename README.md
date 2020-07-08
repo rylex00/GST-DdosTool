@@ -1,4 +1,7 @@
-KHT Ekibi İçin Ddos İle Sitelerinizi Test Etmek İçin Yapılmıştır.
+KHT Ekibi İçin Yapılmıştır.
+
+Ddos İle Sitelerinizi Test Edebilirsiniz.
+
 "Tüm Sorumluluk Kullanıcıya aittir"
 
 KULLANIM:

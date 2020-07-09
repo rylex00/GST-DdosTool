@@ -7,7 +7,9 @@ Ddos İle Sitelerinizi Test Edebilirsiniz.
 KURULUM:
 
 pkg install python
+
 pkg install python2
+
 pkg install git
 
 KULLANIM:

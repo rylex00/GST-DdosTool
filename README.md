@@ -16,4 +16,5 @@ KULLANIM:
 
 1) git clone https://github.com/rylex00/khtddos
 2) cd khtddos
-2) python ddosaraci.py
+3) chmod +x ddosaraci.py
+4) python ddosaraci.py

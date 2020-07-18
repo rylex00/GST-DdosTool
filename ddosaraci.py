@@ -4,7 +4,7 @@ import os
 
 os.system("clear")
 banner="""
-                   Korkusuz Team Ozel Ddos Araci v1.0 
+                  \e[35mKorkusuz Team Ozel Ddos Araci v1.0 
                 
                                                   
                   $$  $$    $$    $$    $$$$$$$$   

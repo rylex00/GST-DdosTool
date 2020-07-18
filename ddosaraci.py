@@ -4,7 +4,7 @@ import os
 
 os.system("clear")
 banner="""
-                  \e[35mKorkusuz Team Ozel Ddos Araci v1.0 
+                  Korkusuz Team Ozel Ddos Araci v1.0 
                 
                                                   
                   $$  $$    $$    $$    $$$$$$$$   
@@ -13,7 +13,7 @@ banner="""
                   $$ $      $$    $$       $$
                   $$  $$    $$    $$       $$  
 
-	>CODER BY RYLEX            
+	>CODER BY RYLEX             
 """
 print(banner)
 

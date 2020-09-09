@@ -1,4 +1,4 @@
-KHT Ekibi İçin Yapılmıştır.
+GST Ekibi İçin Yapılmıştır.
 ---------------------------------
 Ddos İle Sitelerinizi Test Edebilirsiniz.
 
@@ -16,7 +16,7 @@ pkg install git
 ---------------------------
 KULLANIM:
 
-1) git clone https://github.com/rylex00/khtddos
+1) git clone https://github.com/rylex00/GST-DdosTool
 2) cd khtddos
 3) chmod +x ddosaraci.py
 4) python ddosaraci.py - Termux için python2 ddosaraci.py

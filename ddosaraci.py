@@ -9,7 +9,6 @@ os.system("clear")
 os.system("figlet GST-TEAM DDOS ARACI")
 
 banner="""
-	
             Göktürk Cyber Security
 					>CODER BY RYLEX             
 """

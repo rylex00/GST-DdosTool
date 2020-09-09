@@ -17,6 +17,6 @@ pkg install git
 KULLANIM:
 
 1) git clone https://github.com/rylex00/GST-DdosTool
-2) cd khtddos
+2) cd GST-DdosTool
 3) chmod +x ddosaraci.py
 4) python ddosaraci.py - Termux için "python2 ddosaraci.py"

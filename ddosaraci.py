@@ -2,18 +2,16 @@ import socket
 import random
 import os
 
-os.system("clear")
-banner="""
-                  Korkusuz Team Ozel Ddos Araci v1.0 
-                
-                                                  
-                  $$  $$    $$    $$    $$$$$$$$   
-                  $$ $      $$    $$       $$
-                  $$$       $$$$$$$$       $$
-                  $$ $      $$    $$       $$
-                  $$  $$    $$    $$       $$  
+os.system("apt-get install figlet")
 
-	>CODER BY RYLEX             
+os.system("clear")
+
+os.system("figlet GST-TEAM DDOS ARACI")
+
+banner="""
+	
+            Göktürk Cyber Security
+					>CODER BY RYLEX             
 """
 print(banner)
 
